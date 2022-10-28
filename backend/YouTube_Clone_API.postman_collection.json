@@ -312,7 +312,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://www.googleapis.com/youtube/v3/search?q=devcodecamp&key=AIzaSyBZj6DOul-OAlEnTEeaL-ivV1zt5o2Ta90&part=snippet",
+							"raw": "https://www.googleapis.com/youtube/v3/search?q=wrestling&key=AIzaSyBZj6DOul-OAlEnTEeaL-ivV1zt5o2Ta90&part=snippet",
 							"protocol": "https",
 							"host": [
 								"www",
@@ -327,7 +327,7 @@
 							"query": [
 								{
 									"key": "q",
-									"value": "devcodecamp"
+									"value": "wrestling"
 								},
 								{
 									"key": "key",
